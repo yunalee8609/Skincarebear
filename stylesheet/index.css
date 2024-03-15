@@ -168,6 +168,9 @@ a:visited {
 a:hover {
     color: rgb(125, 169, 216);
 }
+a: {
+    color: rgb(125, 169, 216);
+}
 
  
 
